@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WAPConApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="data_summary">Debug summary</string>
+</resources>
